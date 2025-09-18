@@ -11,7 +11,7 @@ root.title("Option Button ")
 root.geometry("300x250")
 
 
-tk.Label(root, text="choose the one opetion", font=("Arial", 12)).pack(pady=10)
+tk.Label(root, text="choose the one option", font=("Arial", 12)).pack(pady=10)
 
 choice = tk.StringVar()
 choice.set("Option 1")  
