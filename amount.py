@@ -11,7 +11,7 @@ def currency():
     output.config(text=f"{amount}{curr1}={value}{curr2}")
 
 
-app.title("CURRENCY CONVERTER")
+app.title("💲💲 CURRENCY CONVERTER 💲💲")
 app.config(bg="WHITE")
 
 
